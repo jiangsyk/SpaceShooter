@@ -46,11 +46,12 @@ public class GameController : MonoBehaviour {
                 yield return new WaitForSeconds(spawnInterval);
 
                 if(gameover)
-                {
                     break;
-                }
             }
             yield return new WaitForSeconds(waveInterval);
+
+            if(gameover)
+                break;
         }
     }
     public void SpawnAsteroid()

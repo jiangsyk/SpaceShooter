@@ -1,0 +1,27 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x102)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\MyUnityProjects\SpaceShooter\Bin\SpaceShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\MyUnityProjects\SpaceShooter\Bin\SpaceShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\MyUnityProjects\SpaceShooter\Bin\SpaceShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\MyUnityProjects\SpaceShooter\Bin\SpaceShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\MyUnityProjects\SpaceShooter\Bin\SpaceShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\MyUnityProjects\SpaceShooter\Bin\SpaceShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: F:\MyUnityProjects\SpaceShooter\Bin\SpaceShooter_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass 'BASE' shader state not supported
+Platform assembly: F:\MyUnityProjects\SpaceShooter\Bin\SpaceShooter_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.718059 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 1.609647 ms (FindLiveObjects: 0.027809 ms CreateObjectMapping: 0.015229 ms MarkObjects: 0.350599 ms  DeleteObjects: 0.009269 ms)
+
